@@ -8,7 +8,7 @@ public class SearchPage {
 	@Test
 	public void Search() {
 		
-		System.out.println("Sercah page java");
+		System.out.println("Search page java");
 	}
 
 }
